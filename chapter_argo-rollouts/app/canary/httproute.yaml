@@ -8,7 +8,7 @@ spec:
     namespace: gateway
     sectionName: http
   hostnames:
-  - app-rollouts.example.com
+  - app-rollouts.vm08.handson.cloudnativedays.jp
   rules:
   - matches:
     - path:
